@@ -1,0 +1,1 @@
+<div id="delete_student_form_modal_wrappper" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true"></div>

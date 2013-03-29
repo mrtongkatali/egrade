@@ -8,7 +8,8 @@
 .login footer{ float:right; margin-right:4px; }
 .login footer a.forgot-pw{ font-size:12px; margin-left:5px;  }
 .login-container{ background:none 0 0 rgba(255,255,255,0.7); box-shadow:0 0 5px 1px rgba(0,0,0,0.1); display: block; margin:50px auto 0; padding: 10px; width:31%; }
-.login-container h3{ margin-left:11px; text-transform: none; }
+.login-container h3{ margin-left:11px; text-transform: none; float: left;}
+.login-error { clear: left; }
 .login-input { width: 96.5%; }
 
 body{ background:url('themes-images/login_bg.jpg') repeat; width: 100%; color:#333; font-family:"Helvetica Neue",Helvetica,Arial,sans-serif; font-size:12px!important; margin: 0; }
